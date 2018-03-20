@@ -1,2 +1,3 @@
 # DailyProgrammer
-r/DailyProgrammer Tasks
+My solutions to reddit.com/r/DailyProgrammer Challenges
+
