@@ -14,9 +14,9 @@ int main(int argc, char** argv)
 		cout << "Enter String: ";
 		cin >> s;
 	}
-	for (unsigned i = 1; i < s.size(); i++)
+	for (int i = 1; i < s.size(); i++)
 	{
-		for (unsigned j = 0; j < i; j++)
+		for (int j = 0; j < i; j++)
 		{
 			cout << "[" << i << "]-" << s[i] << " <-> ";
 			cout << "[" << j << "]-" << s[j] << " " << endl;

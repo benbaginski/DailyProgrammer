@@ -1,3 +1,3 @@
 # DailyProgrammer
-My solutions to reddit.com/r/DailyProgrammer Challenges
+My solutions to [DailyProgrammer](reddit.com/r/DailyProgrammer Challenges)
 
